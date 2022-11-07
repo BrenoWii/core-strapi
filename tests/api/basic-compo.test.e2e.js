@@ -39,10 +39,6 @@ const productWithCompo = {
       type: 'component',
       required: true,
     },
-    optionalCompo: {
-      component: 'default.compo',
-      type: 'component',
-    },
   },
   displayName: 'product-with-compo',
   singularName: 'product-with-compo',
